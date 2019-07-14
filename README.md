@@ -8,4 +8,4 @@
 - [vom](http://solymosin.github.io/vom)
 
 ## Jegyzetek
-- [GeoEpi](https://github.com/solymosin/index/blob/master/jegyzetek/geoepi.pdf)
+- [GeoEpi](https://github.com/solymosin/index/raw/master/jegyzetek/geoepi.pdf)
