@@ -6,3 +6,6 @@
 - [RpostGIS](https://github.com/solymosin/RpostGIS)
 - [vetracto](http://solymosin.github.io/vetracto)
 - [vom](http://solymosin.github.io/vom)
+
+## Jegyzetek
+- [GeoEpi](https://github.com/solymosin/index/blob/master/jegyzetek/geoepi.pdf)
