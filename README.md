@@ -1,5 +1,4 @@
 ## Fejlesztések
-
 - [CI4prev](http://solymosin.github.io/CI4prev)
 - [maps2winbugs](http://solymosin.github.io/maps2winbugs)
 - [OIEparser](https://github.com/solymosin/OIEparser)
@@ -9,3 +8,5 @@
 
 ## Jegyzetek
 - [GeoEpi](https://github.com/solymosin/index/raw/master/jegyzetek/geoepi.pdf)
+- [WinBUGS](jegyzetek/WinBUGS.pdf)
+
