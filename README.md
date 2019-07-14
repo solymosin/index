@@ -8,5 +8,5 @@
 
 ## Jegyzetek
 - [GeoEpi](https://github.com/solymosin/index/raw/master/jegyzetek/geoepi.pdf)
-- [WinBUGS](jegyzetek/WinBUGS.pdf)
-
+- [Sertés-egészségügyi szakállatorvosi](https://github.com/solymosin/index/raw/master/jegyzetek/epidemiologia_sertes2015.pdf)
+- [WinBUGS](https://github.com/solymosin/index/raw/master/jegyzetek/WinBUGS.pdf)
