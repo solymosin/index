@@ -14,4 +14,5 @@
 
 ## Kurzusok
 ### Kvantitatív epidemiológa
-- [Előadás I.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres01.pdf)
+- Magyar előadás: [I.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres01.pdf), [II.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres02.pdf), [III.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres03.pdf), [IV.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres04.pdf), [V.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres05.pdf), [VI.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres06.pdf), [VII.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres07.pdf)
+
