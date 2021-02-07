@@ -11,3 +11,7 @@
 - [PLF](https://github.com/solymosin/index/raw/master/jegyzetek/PLF.pdf)
 - [Sertés-egészségügyi szakállatorvosi](https://github.com/solymosin/index/raw/master/jegyzetek/epidemiologia_sertes2015.pdf)
 - [WinBUGS](https://github.com/solymosin/index/raw/master/jegyzetek/WinBUGS.pdf)
+
+## Kurzusok
+### Kvantitatív epidemiológa
+- [Előadás I.](https://github.com/solymosin/index/raw/master/lectures/quepihu/pres01.pdf)
