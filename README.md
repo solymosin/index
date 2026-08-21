@@ -9,6 +9,7 @@
 ## Jegyzetek
 - [GeoEpi](https://github.com/solymosin/index/raw/master/jegyzetek/geoepi.pdf)
 - [PLF](https://github.com/solymosin/index/raw/master/jegyzetek/PLF.pdf)
+- [R<-...erre, erre...! (Bevezetés az R-nyelv és környzet használatába)]([https://cran.r-project.org/other-docs.html](https://cran.r-project.org/doc/contrib/Solymosi-Rjegyzet.pdf))
 - [Sertés-egészségügyi szakállatorvosi](https://github.com/solymosin/index/raw/master/jegyzetek/epidemiologia_sertes2015.pdf)
 - [WinBUGS](https://github.com/solymosin/index/raw/master/jegyzetek/WinBUGS.pdf)
 
