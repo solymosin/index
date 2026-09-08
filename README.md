@@ -21,3 +21,14 @@
 ### Statisztikai folyamatszabályozás
 [SPC](https://github.com/solymosin/index/raw/master/lectures/SPC.pdf) 
 
+## Sajtó
+### COVID
+- https://www.telegraph.co.uk/news/2022/02/09/early-lab-grown-covid-virus-found-sample-lends-weight-wuhan/
+- https://www.wsj.com/opinion/another-potential-covid-19-lab-leak-clue-china-11644615472
+- https://444.hu/2022/02/10/magyar-kutatok-friss-felfedezese-akar-azt-is-segithet-kinyomozni-hogy-tenyleg-kinai-laborbol-vagy-egesz-mashonnan-indult-e-a-covid-jarvany
+- https://ttk.elte.hu/content/a-koronavirus-korai-valtozata-egy-antarktiszi-mintaban.t.5310
+- https://magyarnemzet.hu/kulfold/2022/02/egyszeru-szennyezes-lehet-az-antarktiszi-talajmintaban-magyar-kutatok-altal-talalt-koronavirus
+- https://telex.hu/koronavirus/2022/02/11/magyar-kutatok-tanulmany-sars-cov-2-koronavirus-eredet-os-laborbol-szabadult-fact-checking
+### polgeo
+- https://444.hu/2026/09/05/evtizedes-meloval-tette-a-vesztesek-partjava-orban-a-fideszt-a-vegen-bele-is-bukott-megsem-jut-eszebe-masmilyen-recept
+
