@@ -31,4 +31,5 @@
 - https://telex.hu/koronavirus/2022/02/11/magyar-kutatok-tanulmany-sars-cov-2-koronavirus-eredet-os-laborbol-szabadult-fact-checking
 ### polgeo
 - https://444.hu/2026/09/05/evtizedes-meloval-tette-a-vesztesek-partjava-orban-a-fideszt-a-vegen-bele-is-bukott-megsem-jut-eszebe-masmilyen-recept
+- https://www.youtube.com/watch?v=fQHcY1gL7DY
 
